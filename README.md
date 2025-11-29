@@ -40,7 +40,7 @@ A Todo Application built with Next.js.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/FarnamJavadi/Todo-Application.git>
 cd "Todo Application"
 ```
 
